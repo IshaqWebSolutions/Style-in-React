@@ -1,0 +1,26 @@
+.heading {
+  color: red;
+  background-color: black;
+  text-align: center;
+}
+
+.img-style{
+  width: 100%;
+}
+.container{
+  display: flex;
+}
+
+.user-card{
+  width: 230px;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 10px;
+  background-color: grey;
+ /* float: left; */
+}
+.text-wrap{
+  color: white;
+  text-align: center;
+  line-height: 10px;
+}
